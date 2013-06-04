@@ -4,4 +4,5 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-DEWTrabajopc01Adicional::Application.config.secret_token = '41f42541141f92b4e6598f645b5e67d6427b97cf3aca15ec2173446c45fa7966b121fd97266e119680486afd6786633031d3d8642955339de62d5e4b43f282e9'
+#Music::Application.config.secret_token = 'f9cd87f11919b3799a82a8fc52fed0468415e046fe64b1a79598a2a581c4e8437227d070559d31b49938d5671afcfe2bf790db4c8a9d60d86e770123f7d1d914'
+Music::Application.config.secret_token = '2847dddc2eb24c2421ccc4d22ff3af68'
