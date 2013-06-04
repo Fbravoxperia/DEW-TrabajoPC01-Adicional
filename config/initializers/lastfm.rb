@@ -1,2 +1,2 @@
-LastFM.api_key     = "627218788bfd0060047d2fde5fa69ce9"
-LastFM.client_name = "RadioLastFM"
+LastFM.api_key     = "eb14168f409eecd371f65c40beba5b2f"
+LastFM.client_name = "LastFM"
