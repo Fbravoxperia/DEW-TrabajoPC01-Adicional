@@ -3,11 +3,11 @@ DEW-TrabajoPC01-Adicional
 
 INTEGRANTES DEL GRUPO
 
-NOMBRE DE INTEGRANTES			NOMBRE DE USUARIO DE GIT
---------------------------------------------------------
+
+NOMBRE DE USUARIO               USUARIO GITHUB
+
 FREDDY ALBERTO BRAVO ANGULO     FBRAVOXPERIA
 JUAN ANGEL QUILLATUPA AMAYA 	JQUILLATUPA
---------------------------------------------------------
 
-SE REALIZO EL TRABAJO EN CONJUNTO DESDE UN USUARIO, SE NOS PRESENTO UN PROBLEMA 
-CON UNO DE LOS USUARIO,ES POR ESO QUE SE TRABAJO MAS CON UN USUARIO. 
+
+Se realizó el trabajo en conjunto desde un usuario pues se nos presentó un problema con uno de los usuarios, es por ello que se trabajó más con un usuario.
